@@ -45,5 +45,5 @@ I am currently looking for new opportunities and open to freelance projects!
 
 ### 🔭 Current Focus
 - 🔭 Working on: **Sodagr (HRIS & CRM) App - Internal Product EBCO**
-- 🌱 Other Portolio: **[Gitlab](https://gitlab.com/luqmanulhakiem7)**, **[Portofolio Web](https://luqmanulhakiem.github.io/luqman/pages/all-projects.html)**
+- 🌱 Other Portolio: **[Gitlab](https://gitlab.com/luqmanulhakiem7)**, **[Portofolio Web](https://luqmanulhakiem.github.io/luqman)**
 - 📫 Reach me: **[Link LinkedIn](https://linkedin.com/in/elqi)**
